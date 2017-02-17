@@ -20,5 +20,5 @@ module.
 
 
 ##  Test the package
-Go inside the folder "tests/" and run" `python test_reco.py`.
+Go inside the folder "tests/" and run" `python run_test.py`.
 
